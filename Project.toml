@@ -1,0 +1,4 @@
+name = "MyStatsPackage"
+uuid = "1448bdd1-e256-4f96-b469-8703855d921d"
+authors = ["Delbar Faghihmirzaei <delbar.faghihmirzaei@kuleuven.be>"]
+version = "0.1.0"
