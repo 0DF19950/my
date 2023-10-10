@@ -1,4 +1,4 @@
-module MyStatsPackage2
+module MyStatsPackage
 using ProgressMeter
 include("src/statistic_functions.jl")
 
